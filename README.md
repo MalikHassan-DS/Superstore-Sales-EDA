@@ -57,10 +57,7 @@ The following analyses were performed:
 * A small number of products contribute a large portion of total sales.
 
 # Conclusion
-
 This analysis provides valuable business insights into customer purchasing behavior and sales performance. The findings can support data-driven decisions related to inventory management, marketing strategies, and business growth.
-
----
 
 # Author
 
