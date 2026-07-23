@@ -1,13 +1,9 @@
-# 🛒 Superstore Sales EDA
+#  Superstore Sales EDA
 
-## 📌 Project Overview
-
+# Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on a Superstore Sales dataset using Python. The objective is to analyze sales performance, identify business trends, and generate meaningful insights through data visualization.
 
----
-
-## 📂 Dataset Information
-
+# Dataset Information
 The dataset contains **9,800 sales records** and includes information about:
 
 * Order Details
@@ -16,11 +12,8 @@ The dataset contains **9,800 sales records** and includes information about:
 * Sales
 * Shipping Details
 * Region and State
-
----
-
-## 🛠️ Technologies Used
-
+* 
+# Technologies Used
 * Python
 * Pandas
 * NumPy
@@ -28,10 +21,7 @@ The dataset contains **9,800 sales records** and includes information about:
 * Seaborn
 * Jupyter Notebook
 
----
-
-## 🧹 Data Cleaning
-
+# Data Cleaning
 The following preprocessing steps were performed:
 
 * Created a copy of the original dataset
@@ -40,17 +30,12 @@ The following preprocessing steps were performed:
 * Checked duplicate records
 * Converted **Order Date** and **Ship Date** into datetime format
 * Created new features:
-
   * Year
   * Month
   * Month Number
-
----
-
-## 📊 Exploratory Data Analysis
-
+    
+# Exploratory Data Analysis
 The following analyses were performed:
-
 * Descriptive Statistics
 * Sales Distribution
 * Sales Box Plot
@@ -64,25 +49,20 @@ The following analyses were performed:
 * Top 10 States by Sales
 * Top 10 Products by Sales
 
----
-
-## 📈 Key Insights
-
+# Key Insights
 * The sales distribution is positively skewed due to a few high-value transactions.
 * Sales vary across product categories and customer segments.
 * Some regions and states generate significantly higher sales than others.
 * Monthly and yearly analyses reveal changing sales trends over time.
 * A small number of products contribute a large portion of total sales.
 
----
-
-## 🎯 Conclusion
+# Conclusion
 
 This analysis provides valuable business insights into customer purchasing behavior and sales performance. The findings can support data-driven decisions related to inventory management, marketing strategies, and business growth.
 
 ---
 
-## 👨‍💻 Author
+# Author
 
 **Malik Hassan**
 
